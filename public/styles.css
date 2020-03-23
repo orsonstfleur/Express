@@ -1,0 +1,11 @@
+body{
+  background: yellow;
+  background-image: url('package.jpg');
+}
+h3{
+  margin-top: 40px;
+}
+section{
+  margin: 7% 0% 0% 52%;
+  color: white;
+}

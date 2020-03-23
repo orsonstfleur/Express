@@ -1,4 +1,4 @@
-![CoronaVirus](public/covid.jpg)
+![CoronaVirus](covid.jpg)
 
 ## Installation
 
